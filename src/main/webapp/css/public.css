@@ -1,0 +1,10 @@
+/* CSS Document */
+/*全局样式*/
+*{margin:0px;padding:0px;font-family:"微软雅黑"; }
+body{overflow-x:hidden;background:url(../image/l_bg01.gif);height:100%;width:100%;}
+a{text-decoration:none;color:#000}
+ul li{list-style:none;}
+img{border:none;}
+/*按钮样式*/
+.btn{background:url(../image/dis_btn01.gif) no-repeat;width:69px;height:30px;border:none;}
+.content{width:1024px;margin:0 auto;border-left:1px solid #aac1ad;border-right:1px solid #aac1ad}

@@ -1,0 +1,29 @@
+/* CSS Document */
+
+/*申请研讨*/
+body{ background:url(../image/l_bg01.gif);height:100%;width:100%;}
+.dc_discontent{height:auto;width:100%;margin-bottom:20px;}
+.dc_curt_1{width:1024px;margin:0 auto;background:url(../image/dis_curbg.gif);}
+.dc_curt_2{width:1024px;margin:0 auto;color:#201c1d;font-size:12px;height:33px;line-height:33px;padding-left:19px;}
+.init_div1{margin:0 auto;width:760px;height:auto;background:#fff;text-align:center;padding-bottom:20px;}
+.tab_init_title{margin:0 auto;margin-top:50px;display:block;padding-left:17px;width:741px;height:35px;line-height:35px;background:#dcdcdc;border:1px solid #d4cac9;border-radius:8px 8px 0px 0px;-moz-border-radius:8px 8px 0px 0px;-webkit-border-radius:8px;}
+.steps01{ margin:auto;position: relative;width:auto;top:30px;} 
+	.file{
+	position:absolute;
+	top: 15px;
+	height:26px;
+	filter:alpha(opacity:0);
+	opacity:0;
+	-omz-opacity:0;
+	width:440px;
+	left: 170px;
+}
+.steps01 .txt{height:24px; line-height:24px; background-color:#c6c6c6;width:330px; text-indent:3px;margin-left:20px; } 
+.steps01 .btn{ background:url(../image/02.gif);color:#201c1b; width:100px;height:28px; border:none; text-align:center; line-height:26px; font-weight:bold;cursor:pointer;}
+.btn_fasong{border:none;margin:11px 0px 0px 10px;;background:url(../image/dis_btn01.gif) no-repeat;width:69px;height:31px;cursor:pointer}
+.init_tab{height:auto;width:524px;border-right:1px solid #dcdcdc;border-top:1px solid #dcdcdc;text-align:center;margin:40px 0px 0px 170px;}
+.init_tab td{border-left:1px solid #dcdcdc;border-bottom:1px solid #dcdcdc;height:30px;}
+.init_tab .first_tr{background:#dcdcdc;font-weight:bold;}
+.init_ul1{margin:20px 0px 0px 50px;height:300x;}
+.init_ul1 li{margin-left:20px;float:left;}
+.init_ul1 #swdt{width:524px;height:300px;border:1px solid #dcdcdc;margin-bottom:40px}
